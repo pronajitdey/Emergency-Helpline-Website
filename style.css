@@ -1,0 +1,152 @@
+    body {
+        background: rgb(214, 214, 230);
+        position: relative;
+        width: fit-content;
+    }
+
+    .container {
+        border: 2px solid red;
+        background-color: rgb(166, 166, 222);
+        padding: 34px;
+        margin: 34px;
+        margin-left: 400px;
+        width: 666px;
+        border-radius: 30px;
+        font-size: 20PX;
+    }
+
+    .para {
+        margin-left: 400px;
+    }
+
+    .btn1 {
+        margin-left: 400px;
+        margin-top: 10px;
+    }
+    .btn2 {
+        margin-left: 800px;
+        margin-top: 10px;
+    }
+    .btn3 {
+        margin-left: 1180px;
+        margin-top: 10px;
+    }
+    .btn4 {
+        margin-left: 400px;
+        margin-top: 190px;
+    }
+    .btn5 {
+        margin-left: 800px;
+        margin-top: 190px;
+    }
+    .btn6 {
+        margin-left: 1180px;
+        margin-top: 190px;
+    }
+
+    
+    .box1 {
+        position: absolute;
+        top: 25px;
+        height: 600px;
+        width: 310px;
+        background-color: rgb(164, 138, 188);
+        margin-top: 0%;
+        margin-left: 40px;
+        padding: 10px;
+        border-radius: 10px;
+        border: 2px solid red;
+        font-size: 22px;
+        font-weight: 500;
+
+    }
+    .box2 {
+        position: absolute;
+        top: 50px;
+        height: 200px;
+        width: 355px;
+
+        
+        margin-top: 0%;
+        margin-left: 1120px;
+        padding: 10px;
+        border-radius: 10px;
+        font-weight: 800;
+        font-size: 70px;
+        font-weight: 500;
+        font-family: 'Monoton', cursive;
+
+    }
+    .card{
+        position: absolute;
+    }
+    @media(max-width: 426px){
+    
+      .container {
+        border: 2px solid red;
+        background-color: rgb(166, 166, 222);
+        padding: 34px;
+        margin: 34px;
+        margin-left: 50px;
+        width: 700px;
+        border-radius: 30px;
+        font-size: 20PX;
+      }
+      .box1 {
+        position: absolute;
+        top: 25px;
+        height: 620px;
+        width: 310px;
+        background-color: rgb(164, 138, 188);
+        margin-top: 450px;
+        margin-left: 40px;
+        padding: 10px;
+        border-radius: 10px;
+        border: 2px solid red;
+        font-size: 22px;
+        font-weight: 500;
+
+    }
+    .box2 {
+        position: absolute;
+        top: 50px;
+        height: 200px;
+        width: 355px;
+
+        
+        margin-top: 250px;
+        margin-left: 40px;
+        padding: 10px;
+        border-radius: 10px;
+        font-weight: 800;
+        font-size: 60px;
+        font-weight: 500;
+        font-family: 'Monoton', cursive;
+
+    }
+    .btn1 {
+        margin-left: 400px;
+        margin-top: 10px;
+    }
+    .btn2 {
+        margin-left: 400px;
+        margin-top: 150px;
+    }
+    .btn3 {
+        margin-left: 400px;
+        margin-top: 290px;
+    }
+    .btn4 {
+        margin-left: 400px;
+        margin-top: 430px;
+    }
+    .btn5 {
+        margin-left: 400px;
+        margin-top: 570px;
+    }
+    .btn6 {
+        margin-left: 400px;
+        margin-top: 710px;
+    }
+    }
+    
